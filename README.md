@@ -1,13 +1,12 @@
 # six_nimmt
 
-A new Flutter project.
+A iOS mobile game inspired by a kind of boardgame- Six Nimmt.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Build a flutter project, and simply copy the homeUI.dart file into your own lib directory and update the yaml file. Then, run the project.
 
-A few resources to get you started if this is your first Flutter project:
-
+Here is some reference for starting the flutter project from scratch.
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
